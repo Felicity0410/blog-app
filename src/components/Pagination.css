@@ -1,0 +1,15 @@
+.pagination {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.page-btn {
+    color: #0d7bff;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    margin-left: -1px;
+    cursor: pointer;
+    padding: 0.5rem 0.75rem;
+}
+
